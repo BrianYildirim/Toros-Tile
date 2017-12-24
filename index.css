@@ -1,0 +1,40 @@
+img.primary {
+	border: 2px solid #540000;
+}
+
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h5 {
+	display: inline-block;
+	margin: 1%;
+}
+
+header {
+	background-color: #540000;
+	text-align: center;
+}
+
+footer {
+	display: inline;
+}
+
+h1 {
+	font-size: 50pt; 
+	color: white;
+	font-family: f;
+}
+
+div.container {
+	font-family: sans-serif;
+}
+
+u {
+	color: white;
+}
+
+.btn {
+	margin: 1%;
+}
